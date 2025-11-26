@@ -1,0 +1,6 @@
+@PlayerDataBase_HostAddress = http://localhost:5098
+
+GET {{PlayerDataBase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\migrations\\20251126124803_initplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\migrations\\20251126124803_initplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\playerdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\playerdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251126124803_InitPlayers.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "RelativeToolTip": "PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:48:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerDataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\PlayerDataBase.csproj",
+              "RelativeDocumentMoniker": "PlayerDataBase\\PlayerDataBase.csproj",
+              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\PlayerDataBase.csproj",
+              "RelativeToolTip": "PlayerDataBase\\PlayerDataBase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T12:45:00.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\appsettings.json",
+              "RelativeDocumentMoniker": "PlayerDataBase\\appsettings.json",
+              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\appsettings.json",
+              "RelativeToolTip": "PlayerDataBase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T12:32:33.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Program.cs",
+              "RelativeToolTip": "PlayerDataBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:31:53.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\DbContext.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\DbContext.cs",
+              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\DbContext.cs",
+              "RelativeToolTip": "PlayerDataBase\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:31:33.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "playerModel.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\playerModel.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\playerModel.cs",
+              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\playerModel.cs",
+              "RelativeToolTip": "PlayerDataBase\\playerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:30:38.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

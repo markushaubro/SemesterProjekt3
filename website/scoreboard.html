@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Player Scoreboard</title>
+     <link rel="stylesheet" href="style.css">  
+</head>
+<body>
+
+<div id="app">
+    <div class="scoreboard" v-if="player">
+        <div class="title">Bounty Scoreboard</div>
+        <div class="player-name">{{ player.playerName }}</div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-label">Total Bounty</div>
+                <div class="stat-value">{{ formatCurrency(player.totalBountyCollected) }}</div>
+            </div>
+
+            <div class="stat-box">
+                <div class="stat-label">Targets Taken Out</div>
+                <div class="stat-value">{{ player.targetsTakenOut }}</div>
+            </div>
+
+            <div class="stat-box">
+                <div class="stat-label">Highest Bounty</div>
+                <div class="stat-value">{{ formatCurrency(player.highestBountyCollected) }}</div>
+            </div>
+        </div>
+    </div>
+
+    <div v-else>Loading...</div>
+</div>
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+<script src="script.js"></script>
+
+
+</body>
+</html>
