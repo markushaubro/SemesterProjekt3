@@ -1,29 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\",
+  "WorkspaceRootPath": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\migrations\\20251126124803_initplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\migrations\\20251126124803_initplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/mssql13.unoeuro.com/mooncake_dk_db_test/mooncake_dk/SqlTable/dbo.Profiles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\playerdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\playerdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\migrations\\gamedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\migrations\\gamedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\migrations\\20251126124803_initplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\migrations\\20251126124803_initplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\playerdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\playerdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\madsp\\source\\repos\\playerdatabase\\playerdatabase\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\playerdatabase\\playerdatabase\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22C420F6-BBB5-4F48-9B67-C077000BE1DE}|PlayerDataBase\\PlayerDataBase.csproj|solutionrelative:playerdatabase\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,80 +49,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20251126124803_InitPlayers.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
-              "RelativeDocumentMoniker": "PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
-              "RelativeToolTip": "PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "Title": "dbo.Profiles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/mssql13.unoeuro.com/mooncake_dk_db_test/mooncake_dk/SqlTable/dbo.Profiles.sql",
+              "ToolTip": "dbo.Profiles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-02T12:28:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Migrations\\GameDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\Migrations\\GameDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Migrations\\GameDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PlayerDataBase\\Migrations\\GameDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T00:16:16.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Controllers\\playerController.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\Controllers\\playerController.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Controllers\\playerController.cs",
+              "RelativeToolTip": "PlayerDataBase\\Controllers\\playerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T00:15:52.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Program.cs",
+              "RelativeToolTip": "PlayerDataBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:31:53.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\appsettings.json",
+              "RelativeDocumentMoniker": "PlayerDataBase\\appsettings.json",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\appsettings.json",
+              "RelativeToolTip": "PlayerDataBase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T12:32:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerDataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\PlayerDataBase.csproj",
+              "RelativeDocumentMoniker": "PlayerDataBase\\PlayerDataBase.csproj",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\PlayerDataBase.csproj",
+              "RelativeToolTip": "PlayerDataBase\\PlayerDataBase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T12:45:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251126124803_InitPlayers.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "RelativeToolTip": "PlayerDataBase\\Migrations\\20251126124803_InitPlayers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T12:48:04.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerDataBase.csproj",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\PlayerDataBase.csproj",
-              "RelativeDocumentMoniker": "PlayerDataBase\\PlayerDataBase.csproj",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\PlayerDataBase.csproj",
-              "RelativeToolTip": "PlayerDataBase\\PlayerDataBase.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-26T12:45:00.829Z"
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\DbContext.cs",
+              "RelativeDocumentMoniker": "PlayerDataBase\\DbContext.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\DbContext.cs",
+              "RelativeToolTip": "PlayerDataBase\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:31:33.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\appsettings.json",
-              "RelativeDocumentMoniker": "PlayerDataBase\\appsettings.json",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\appsettings.json",
-              "RelativeToolTip": "PlayerDataBase\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PlayerDataBase\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PlayerDataBase\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-26T12:32:33.181Z"
+              "WhenOpened": "2025-12-01T00:16:40.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Program.cs",
-              "RelativeDocumentMoniker": "PlayerDataBase\\Program.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\Program.cs",
-              "RelativeToolTip": "PlayerDataBase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:31:53.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\DbContext.cs",
-              "RelativeDocumentMoniker": "PlayerDataBase\\DbContext.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\DbContext.cs",
-              "RelativeToolTip": "PlayerDataBase\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:31:33.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "playerModel.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\playerModel.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\playerModel.cs",
               "RelativeDocumentMoniker": "PlayerDataBase\\playerModel.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\PlayerDataBase\\PlayerDataBase\\playerModel.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\PlayerDataBase\\PlayerDataBase\\playerModel.cs",
               "RelativeToolTip": "PlayerDataBase\\playerModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:30:38.505Z"
+              "WhenOpened": "2025-11-26T12:30:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
