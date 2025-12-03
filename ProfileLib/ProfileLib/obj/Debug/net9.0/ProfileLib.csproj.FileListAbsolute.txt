@@ -1,0 +1,14 @@
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\bin\Debug\net9.0\ProfileLib.deps.json
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\bin\Debug\net9.0\ProfileLib.dll
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\bin\Debug\net9.0\ProfileLib.pdb
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.AssemblyInfoInputs.cache
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.AssemblyInfo.cs
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.csproj.CoreCompileInputs.cache
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.dll
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\refint\ProfileLib.dll
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.pdb
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ref\ProfileLib.dll
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\bin\Debug\net9.0\ProfileLib.runtimeconfig.json
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.csproj.AssemblyReference.cache
+C:\Users\marku\Desktop\Skole\3.Semester\Programmering\Opgaver\DRMusic\ProfileLib\ProfileLib\obj\Debug\net9.0\ProfileLib.genruntimeconfig.cache

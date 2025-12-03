@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\skole\\3.semester\\programmering\\opgaver\\drmusic\\profilelib\\profilelib\\profilerepolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|solutionrelative:profilelib\\profilerepolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\skole\\3.semester\\programmering\\opgaver\\drmusic\\profilelib\\profilelib\\iprofilelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|solutionrelative:profilelib\\iprofilelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\skole\\3.semester\\programmering\\opgaver\\drmusic\\profilelib\\profilelib\\profilerepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|solutionrelative:profilelib\\profilerepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\skole\\3.semester\\programmering\\opgaver\\drmusic\\profilelib\\profilelib\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|solutionrelative:profilelib\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\skole\\3.semester\\programmering\\opgaver\\drmusic\\profilelib\\profilelib\\profilerepodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A483D0-7790-465C-BEB3-67D5B3E06E69}|ProfileLib\\ProfileLib.csproj|solutionrelative:profilelib\\profilerepodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EDC9BF-BA7E-416A-8CF0-EC78C4EDC414}|ProfileTest\\ProfileTest.csproj|c:\\users\\marku\\desktop\\skole\\3.semester\\programmering\\opgaver\\drmusic\\profilelib\\profiletest\\profiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EDC9BF-BA7E-416A-8CF0-EC78C4EDC414}|ProfileTest\\ProfileTest.csproj|solutionrelative:profiletest\\profiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EDC9BF-BA7E-416A-8CF0-EC78C4EDC414}|ProfileTest\\ProfileTest.csproj|c:\\users\\marku\\desktop\\skole\\3.semester\\programmering\\opgaver\\drmusic\\profilelib\\profiletest\\profiletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0EDC9BF-BA7E-416A-8CF0-EC78C4EDC414}|ProfileTest\\ProfileTest.csproj|solutionrelative:profiletest\\profiletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileRepoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileRepoDBContext.cs",
+              "RelativeDocumentMoniker": "ProfileLib\\ProfileRepoDBContext.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileRepoDBContext.cs",
+              "RelativeToolTip": "ProfileLib\\ProfileRepoDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:59:39.564Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileRepoDB.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileRepoDB.cs",
+              "RelativeDocumentMoniker": "ProfileLib\\ProfileRepoDB.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileRepoDB.cs",
+              "RelativeToolTip": "ProfileLib\\ProfileRepoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T01:22:35.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileTest.csproj",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileTest\\ProfileTest.csproj",
+              "RelativeDocumentMoniker": "ProfileTest\\ProfileTest.csproj",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileTest\\ProfileTest.csproj",
+              "RelativeToolTip": "ProfileTest\\ProfileTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T13:28:52.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileTest.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileTest\\ProfileTest.cs",
+              "RelativeDocumentMoniker": "ProfileTest\\ProfileTest.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileTest\\ProfileTest.cs",
+              "RelativeToolTip": "ProfileTest\\ProfileTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:03:52.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileRepoList.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileRepoList.cs",
+              "RelativeDocumentMoniker": "ProfileLib\\ProfileRepoList.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileRepoList.cs",
+              "RelativeToolTip": "ProfileLib\\ProfileRepoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:48:28.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\Profile.cs",
+              "RelativeDocumentMoniker": "ProfileLib\\Profile.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\Profile.cs",
+              "RelativeToolTip": "ProfileLib\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:32:54.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProfileList.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\IProfileList.cs",
+              "RelativeDocumentMoniker": "ProfileLib\\IProfileList.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\IProfileList.cs",
+              "RelativeToolTip": "ProfileLib\\IProfileList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:51:24.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
