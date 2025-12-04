@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "fbiController.Controllers.FbiController",
+    "Method": "GetAll",
+    "RelativePath": "api/Fbi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "fbiController.Controllers.FbiController",
+    "Method": "GetById",
+    "RelativePath": "api/Fbi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "fbiController.Controllers.FbiController",
+    "Method": "Sync",
+    "RelativePath": "api/Fbi/sync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
