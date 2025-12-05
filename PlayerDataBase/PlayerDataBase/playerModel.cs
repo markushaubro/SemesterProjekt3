@@ -5,4 +5,7 @@
     public int TotalBountyCollected { get; set; }
     public int TargetsTakenOut { get; set; }
     public int HighestBountyCollected { get; set; }
+    public int TotalShots { get; set; }
+    public string MostShotTarget { get; set; } = "";
+    public int TotalGames { get; set; }
 }

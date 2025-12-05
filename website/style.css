@@ -1,4 +1,4 @@
-        body {
+ body {
             font-family: sans-serif;
             background: #0f172a;
             color: #e5e7eb;
@@ -10,7 +10,7 @@
         .scoreboard {
             background: #1e293b;
             padding: 20px;
-            width: 380px;
+            width: 420px;
             border-radius: 12px;
             border: 1px solid #334155;
         }
