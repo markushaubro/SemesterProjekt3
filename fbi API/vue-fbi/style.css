@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f3f4f6;
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin: 10px auto;
+  max-width: 600px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}

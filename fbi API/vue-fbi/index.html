@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FBI Most Wanted Top 10</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="app">
+    <h1>Top 10 FBI Most Wanted</h1>
+
+    <p v-if="loading">Henter data...</p>
+    <p v-if="error" class="error">{{ error }}</p>
+
+    <div v-for="(item, index) in wanted" :key="index" class="card">
+      <h2>{{ index + 1 }}. {{ item.title }}</h2>
+      <p><strong>Belønning:</strong> {{ item.reward }}</p>
+      <p>{{ item.description }}</p>
+    </div>
+  </div>
+
+  <!-- Vue via CDN -->
+  <script src="https://unpkg.com/vue@3"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
