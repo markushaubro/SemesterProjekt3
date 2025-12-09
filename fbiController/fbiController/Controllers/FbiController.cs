@@ -1,10 +1,9 @@
-﻿// Controllers/FbiController.cs
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Net.Http.Json;
-using fbiController;          // WantedDbContext´+
-using fbiController.DTO;      // FbiListResponse, FbiItem, FbiImage
-using fbiController.Models;   // WantedPerson
+using fbiController;          
+using fbiController.DTO;     
+using fbiController.Models;   
 
 namespace fbiController.Controllers
 {
@@ -21,7 +20,6 @@ namespace fbiController.Controllers
             _httpClientFactory = httpClientFactory;
         }
 
-        // POST api/fbi/sync
         [HttpPost("sync")]
         public async Task<IActionResult> Sync(CancellationToken ct)
         {
@@ -29,7 +27,7 @@ namespace fbiController.Controllers
 
             int page = 1;
             int updated = 0;
-            const int maxPages = 100; // safety cap so we don't go infinite
+            const int maxPages = 100; 
 
             while (!ct.IsCancellationRequested && page <= maxPages)
             {
@@ -39,13 +37,11 @@ namespace fbiController.Controllers
 
                 if (httpResponse.StatusCode == System.Net.HttpStatusCode.TooManyRequests)
                 {
-                    // stop gracefully if rate-limited
                     break;
                 }
 
                 if (!httpResponse.IsSuccessStatusCode)
                 {
-                    // FBI error => treat as server error on our side
                     return StatusCode(500,
                         $"FBI API error on page {page}: {(int)httpResponse.StatusCode} {httpResponse.StatusCode}");
                 }
@@ -90,13 +86,12 @@ namespace fbiController.Controllers
                     break;
 
                 page++;
-                await Task.Delay(250, ct); // small pause to be nice to FBI
+                await Task.Delay(250, ct);
             }
 
             return Ok(new { updated });
         }
 
-        // GET api/fbi
         [HttpGet]
         public async Task<IActionResult> GetAll(int page = 1, int pageSize = 20, CancellationToken ct = default)
         {
@@ -113,7 +108,6 @@ namespace fbiController.Controllers
             return Ok(new { total, page, pageSize, items });
         }
 
-        // GET api/fbi/5
         [HttpGet("{id:int}")]
         public async Task<IActionResult> GetById(int id, CancellationToken ct)
         {

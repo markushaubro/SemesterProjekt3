@@ -1,5 +1,4 @@
-﻿// DbContext.cs
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using fbiController.Models;
 
 namespace fbiController

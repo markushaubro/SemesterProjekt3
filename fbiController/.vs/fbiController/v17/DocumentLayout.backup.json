@@ -1,42 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\madsp\\source\\repos\\fbiController\\",
+  "WorkspaceRootPath": "C:\\Users\\madsp\\Desktop\\fbiController\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\source\\repos\\fbicontroller\\fbicontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\source\\repos\\fbicontroller\\fbicontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\controllers\\fbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\controllers\\fbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fbiController\\Migrations\\20251203142857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fbiController\\Migrations\\20251203142721_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\source\\repos\\fbicontroller\\fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\source\\repos\\fbicontroller\\fbicontroller\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\source\\repos\\fbicontroller\\fbicontroller\\fbimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\source\\repos\\fbicontroller\\fbicontroller\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\source\\repos\\fbicontroller\\fbicontroller\\controllers\\fbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\controllers\\fbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\fbimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\migrations\\20251203142857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\migrations\\20251203142857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,41 +45,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20251203142857_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
-              "RelativeDocumentMoniker": "fbiController\\Migrations\\20251203142857_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
-              "RelativeToolTip": "fbiController\\Migrations\\20251203142857_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:28:58.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "20251203142721_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
-              "RelativeDocumentMoniker": "fbiController\\Migrations\\20251203142721_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
               "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
-              "RelativeToolTip": "fbiController\\Migrations\\20251203142721_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:27:21.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T14:27:21.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\appsettings.json",
               "RelativeDocumentMoniker": "fbiController\\appsettings.json",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\appsettings.json",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\appsettings.json",
               "RelativeToolTip": "fbiController\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -89,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "fbiController.csproj",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\fbiController.csproj",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\fbiController.csproj",
               "RelativeDocumentMoniker": "fbiController\\fbiController.csproj",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\fbiController.csproj",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\fbiController.csproj",
               "RelativeToolTip": "fbiController\\fbiController.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -104,62 +89,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Program.cs",
               "RelativeDocumentMoniker": "fbiController\\Program.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Program.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Program.cs",
               "RelativeToolTip": "fbiController\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T13:20:18.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "FbiController.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Controllers\\FbiController.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Controllers\\FbiController.cs",
               "RelativeDocumentMoniker": "fbiController\\Controllers\\FbiController.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Controllers\\FbiController.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Controllers\\FbiController.cs",
               "RelativeToolTip": "fbiController\\Controllers\\FbiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:18:45.813Z"
+              "WhenOpened": "2025-12-03T13:18:45.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DTO.cs",
+              "RelativeDocumentMoniker": "fbiController\\DTO.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DTO.cs",
+              "RelativeToolTip": "fbiController\\DTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:09:17.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DbContext.cs",
+              "RelativeDocumentMoniker": "fbiController\\DbContext.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DbContext.cs",
+              "RelativeToolTip": "fbiController\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:03:08.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DTO.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\DTO.cs",
-              "RelativeDocumentMoniker": "fbiController\\DTO.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\DTO.cs",
-              "RelativeToolTip": "fbiController\\DTO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:09:17.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\DbContext.cs",
-              "RelativeDocumentMoniker": "fbiController\\DbContext.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\DbContext.cs",
-              "RelativeToolTip": "fbiController\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:03:08.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FbiModel.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\FbiModel.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\FbiModel.cs",
               "RelativeDocumentMoniker": "fbiController\\FbiModel.cs",
-              "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\FbiModel.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\FbiModel.cs",
               "RelativeToolTip": "fbiController\\FbiModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:02:23.007Z"
+              "WhenOpened": "2025-12-03T13:02:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251203142857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "fbiController\\Migrations\\20251203142857_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
+              "RelativeToolTip": "fbiController\\Migrations\\20251203142857_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:28:58.052Z"
             }
           ]
         }
