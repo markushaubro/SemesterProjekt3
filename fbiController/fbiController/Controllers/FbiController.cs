@@ -2,13 +2,13 @@
 using Microsoft.EntityFrameworkCore;
 using System.Net.Http.Json;
 using fbiController;          
-using fbiController.DTO;     
+using fbiController.DTO;      
 using fbiController.Models;   
 
 namespace fbiController.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/fbi")]
     public class FbiController : ControllerBase
     {
         private readonly WantedDbContext _db;
@@ -23,74 +23,95 @@ namespace fbiController.Controllers
         [HttpPost("sync")]
         public async Task<IActionResult> Sync(CancellationToken ct)
         {
-            var client = _httpClientFactory.CreateClient("fbi");
-
-            int page = 1;
-            int updated = 0;
-            const int maxPages = 100; 
-
-            while (!ct.IsCancellationRequested && page <= maxPages)
+            try
             {
-                var url = $"wanted/v1/list?page={page}";
+                var client = _httpClientFactory.CreateClient("fbi");
 
-                var httpResponse = await client.GetAsync(url, ct);
+                int page = 1;
+                int updated = 0;
+                const int maxPages = 100; 
 
-                if (httpResponse.StatusCode == System.Net.HttpStatusCode.TooManyRequests)
+                while (!ct.IsCancellationRequested && page <= maxPages)
                 {
-                    break;
-                }
+                    var url = $"wanted/v1/list?page={page}";
+                    var httpResponse = await client.GetAsync(url, ct);
 
-                if (!httpResponse.IsSuccessStatusCode)
-                {
-                    return StatusCode(500,
-                        $"FBI API error on page {page}: {(int)httpResponse.StatusCode} {httpResponse.StatusCode}");
-                }
-
-                var response = await httpResponse.Content.ReadFromJsonAsync<FbiListResponse>(cancellationToken: ct);
-
-                if (response == null || response.Items == null || response.Items.Count == 0)
-                    break;
-
-                foreach (var item in response.Items)
-                {
-                    var entity = await _db.WantedPeople
-                        .FirstOrDefaultAsync(x => x.FbiUid == item.Uid, ct);
-
-                    if (entity == null)
+                    if (httpResponse.StatusCode == System.Net.HttpStatusCode.TooManyRequests)
                     {
-                        entity = new WantedPerson
-                        {
-                            FbiUid = item.Uid
-                        };
-                        _db.WantedPeople.Add(entity);
+                        return StatusCode(503, $"FBI API rate limit hit on page {page}.");
                     }
 
-                    entity.Title = item.Title;
-                    entity.Description = item.Description;
-                    entity.Sex = item.Sex;
-                    entity.Nationality = item.Nationality;
-                    entity.Status = item.Status;
-                    entity.Url = item.Url;
-                    entity.Publication = item.Publication;
-                    entity.ImageUrl = item.Images?.FirstOrDefault()?.Thumb
-                                           ?? item.Images?.FirstOrDefault()?.Large;
-                    entity.LastSyncedUtc = DateTime.UtcNow;
+                    if (!httpResponse.IsSuccessStatusCode)
+                    {
+                        return StatusCode((int)httpResponse.StatusCode,
+                            $"FBI API error on page {page}: {httpResponse.StatusCode}");
+                    }
 
-                    updated++;
+                    var response = await httpResponse.Content
+                        .ReadFromJsonAsync<FbiListResponse>(cancellationToken: ct);
+
+                    if (response?.Items == null || response.Items.Count == 0)
+                        break;
+
+                    foreach (var item in response.Items)
+                    {
+                        var hasReward =
+                            (item.RewardMin.HasValue && item.RewardMin.Value > 0) ||
+                            (item.RewardMax.HasValue && item.RewardMax.Value > 0);
+
+                        if (!hasReward)
+                        {
+                            continue;
+                        }
+
+                        var entity = await _db.WantedPeople
+                            .FirstOrDefaultAsync(x => x.FbiUid == item.Uid, ct);
+
+                        if (entity == null)
+                        {
+                            entity = new WantedPerson
+                            {
+                                FbiUid = item.Uid
+                            };
+                            _db.WantedPeople.Add(entity);
+                        }
+
+                        entity.Title = item.Title;
+                        entity.Description = item.Description;
+                        entity.Sex = item.Sex;
+                        entity.Nationality = item.Nationality;
+                        entity.Status = item.Status;
+                        entity.Url = item.Url;
+                        entity.Publication = item.Publication;
+                        entity.ImageUrl = item.Images?.FirstOrDefault()?.Thumb
+                                              ?? item.Images?.FirstOrDefault()?.Large;
+
+                        entity.RewardMin = item.RewardMin;
+                        entity.RewardMax = item.RewardMax;
+
+                        entity.LastSyncedUtc = DateTime.UtcNow;
+
+                        updated++;
+                    }
+
+                    await _db.SaveChangesAsync(ct);
+
+                    int pageSize = response.Items.Count;
+                    if (response.Total <= page * pageSize)
+                        break;
+
+                    page++;
+                    await Task.Delay(250, ct);
                 }
 
-                await _db.SaveChangesAsync(ct);
-
-                int pageSize = response.Items.Count;
-                if (response.Total <= page * pageSize)
-                    break;
-
-                page++;
-                await Task.Delay(250, ct);
+                return Ok(new { updated });
             }
-
-            return Ok(new { updated });
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal error during sync: {ex.Message}");
+            }
         }
+
 
         [HttpGet]
         public async Task<IActionResult> GetAll(int page = 1, int pageSize = 20, CancellationToken ct = default)

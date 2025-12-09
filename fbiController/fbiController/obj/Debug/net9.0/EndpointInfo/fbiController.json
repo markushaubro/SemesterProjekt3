@@ -6,7 +6,7 @@
     "version": "v1"
   },
   "paths": {
-    "/api/Fbi/sync": {
+    "/api/fbi/sync": {
       "post": {
         "tags": [
           "Fbi"
@@ -18,7 +18,7 @@
         }
       }
     },
-    "/api/Fbi": {
+    "/api/fbi": {
       "get": {
         "tags": [
           "Fbi"
@@ -50,7 +50,7 @@
         }
       }
     },
-    "/api/Fbi/{id}": {
+    "/api/fbi/{id}": {
       "get": {
         "tags": [
           "Fbi"

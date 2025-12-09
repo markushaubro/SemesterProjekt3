@@ -2,7 +2,7 @@
   {
     "ContainingType": "fbiController.Controllers.FbiController",
     "Method": "GetAll",
-    "RelativePath": "api/Fbi",
+    "RelativePath": "api/fbi",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -23,7 +23,7 @@
   {
     "ContainingType": "fbiController.Controllers.FbiController",
     "Method": "GetById",
-    "RelativePath": "api/Fbi/{id}",
+    "RelativePath": "api/fbi/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -39,7 +39,7 @@
   {
     "ContainingType": "fbiController.Controllers.FbiController",
     "Method": "Sync",
-    "RelativePath": "api/Fbi/sync",
+    "RelativePath": "api/fbi/sync",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

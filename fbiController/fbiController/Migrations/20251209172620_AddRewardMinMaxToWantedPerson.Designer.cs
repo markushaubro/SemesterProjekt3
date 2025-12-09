@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using fbiController;
 
@@ -11,9 +12,11 @@ using fbiController;
 namespace fbiController.Migrations
 {
     [DbContext(typeof(WantedDbContext))]
-    partial class WantedDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251209172620_AddRewardMinMaxToWantedPerson")]
+    partial class AddRewardMinMaxToWantedPerson
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

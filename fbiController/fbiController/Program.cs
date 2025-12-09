@@ -1,11 +1,22 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using fbiController;
+using System.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<WantedDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("WantedDb")));
+
+builder.Services.AddHttpClient("fbi", client =>
+{
+    client.BaseAddress = new Uri("https://api.fbi.gov/");
+    client.DefaultRequestHeaders.UserAgent.Clear();
+    client.DefaultRequestHeaders.UserAgent.Add(
+        new ProductInfoHeaderValue("ZealandFbiSync", "1.0"));
+    client.DefaultRequestHeaders.UserAgent.Add(
+        new ProductInfoHeaderValue("(contact:student@example.com)"));
+});
 
 builder.Services.AddControllers();
 builder.Services.AddHttpClient();
