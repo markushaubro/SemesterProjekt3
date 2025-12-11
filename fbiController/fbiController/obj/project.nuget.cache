@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OC2WMX+nuCw=",
+  "dgSpecHash": "YFkyNs+u2Wk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\fbiController.csproj",
+  "projectFilePath": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\fbiController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\madsp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\madsp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

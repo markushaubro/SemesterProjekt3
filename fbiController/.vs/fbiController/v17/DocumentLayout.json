@@ -1,48 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\madsp\\Desktop\\fbiController\\",
+  "WorkspaceRootPath": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\controllers\\fbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\MSTestSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fbiApiTest\\MSTestSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CF0DF2-A4C4-4F06-869D-7228FB8FB205}|ApiTestFbi\\ApiTestFbi.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\apitestfbi\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CF0DF2-A4C4-4F06-869D-7228FB8FB205}|ApiTestFbi\\ApiTestFbi.csproj|solutionrelative:apitestfbi\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\Test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fbiApiTest\\Test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\fbiApiTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fbiApiTest\\fbiApiTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CF0DF2-A4C4-4F06-869D-7228FB8FB205}|ApiTestFbi\\ApiTestFbi.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\apitestfbi\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CF0DF2-A4C4-4F06-869D-7228FB8FB205}|ApiTestFbi\\ApiTestFbi.csproj|solutionrelative:apitestfbi\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\controllers\\fbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\controllers\\fbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\fbimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\fbimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\fbicontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\fbicontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbicontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\fbicontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\migrations\\20251203142857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\migrations\\20251203142857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\migrations\\20251203142857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\fbicontroller\\fbicontroller\\migrations\\20251209172620_addrewardminmaxtowantedperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|c:\\users\\madsp\\desktop\\semesterprojekt3\\fbicontroller\\fbicontroller\\migrations\\20251209172620_addrewardminmaxtowantedperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5517684-B595-44FD-A10B-BF501D929ECA}|fbiController\\fbiController.csproj|solutionrelative:fbicontroller\\migrations\\20251209172620_addrewardminmaxtowantedperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -53,40 +73,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "fbiController.csproj",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\fbiController.csproj",
-              "RelativeDocumentMoniker": "fbiController\\fbiController.csproj",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\fbiController.csproj",
-              "RelativeToolTip": "fbiController\\fbiController.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\ApiTestFbi\\Test1.cs",
+              "RelativeDocumentMoniker": "ApiTestFbi\\Test1.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\ApiTestFbi\\Test1.cs",
+              "RelativeToolTip": "ApiTestFbi\\Test1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:03:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\ApiTestFbi\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "ApiTestFbi\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\ApiTestFbi\\MSTestSettings.cs",
+              "RelativeToolTip": "ApiTestFbi\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:03:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fbiApiTest.csproj",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\fbiApiTest.csproj",
+              "RelativeDocumentMoniker": "fbiApiTest\\fbiApiTest.csproj",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\fbiApiTest.csproj",
+              "RelativeToolTip": "fbiApiTest\\fbiApiTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-03T13:37:38.184Z"
+              "WhenOpened": "2025-12-11T13:50:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\Test1.cs",
+              "RelativeDocumentMoniker": "fbiApiTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\Test1.cs",
+              "RelativeToolTip": "fbiApiTest\\Test1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T12:40:24.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FbiController.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Controllers\\FbiController.cs",
-              "RelativeDocumentMoniker": "fbiController\\Controllers\\FbiController.cs",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Controllers\\FbiController.cs",
-              "RelativeToolTip": "fbiController\\Controllers\\FbiController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "fbiApiTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiApiTest\\MSTestSettings.cs",
+              "RelativeToolTip": "fbiApiTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:18:45.813Z",
+              "WhenOpened": "2025-12-11T12:38:35.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "fbiController.csproj",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\fbiController.csproj",
+              "RelativeDocumentMoniker": "fbiController\\fbiController.csproj",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\fbiController.csproj",
+              "RelativeToolTip": "fbiController\\fbiController.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T13:37:38.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FbiController.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Controllers\\FbiController.cs",
+              "RelativeDocumentMoniker": "fbiController\\Controllers\\FbiController.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Controllers\\FbiController.cs",
+              "RelativeToolTip": "fbiController\\Controllers\\FbiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:18:45.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "fbiController.http",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\fbiController.http",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\fbiController.http",
               "RelativeDocumentMoniker": "fbiController\\fbiController.http",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\fbiController.http",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\fbiController.http",
               "RelativeToolTip": "fbiController\\fbiController.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -94,24 +179,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Program.cs",
               "RelativeDocumentMoniker": "fbiController\\Program.cs",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Program.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Program.cs",
               "RelativeToolTip": "fbiController\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:20:18.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T13:20:18.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "DTO.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DTO.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\DTO.cs",
               "RelativeDocumentMoniker": "fbiController\\DTO.cs",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DTO.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\DTO.cs",
               "RelativeToolTip": "fbiController\\DTO.cs",
               "ViewState": "AgIAACkAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "FbiModel.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\FbiModel.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\FbiModel.cs",
               "RelativeDocumentMoniker": "fbiController\\FbiModel.cs",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\FbiModel.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\FbiModel.cs",
               "RelativeToolTip": "fbiController\\FbiModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,24 +215,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\DbContext.cs",
               "RelativeDocumentMoniker": "fbiController\\DbContext.cs",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\DbContext.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\DbContext.cs",
               "RelativeToolTip": "fbiController\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:03:08.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T13:03:08.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\appsettings.json",
               "RelativeDocumentMoniker": "fbiController\\appsettings.json",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\appsettings.json",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\appsettings.json",
               "RelativeToolTip": "fbiController\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -156,11 +239,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "20251209172620_AddRewardMinMaxToWantedPerson.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Migrations\\20251209172620_AddRewardMinMaxToWantedPerson.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Migrations\\20251209172620_AddRewardMinMaxToWantedPerson.cs",
               "RelativeDocumentMoniker": "fbiController\\Migrations\\20251209172620_AddRewardMinMaxToWantedPerson.cs",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Migrations\\20251209172620_AddRewardMinMaxToWantedPerson.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Migrations\\20251209172620_AddRewardMinMaxToWantedPerson.cs",
               "RelativeToolTip": "fbiController\\Migrations\\20251209172620_AddRewardMinMaxToWantedPerson.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,23 +251,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "20251203142721_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
-              "RelativeDocumentMoniker": "..\\..\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
               "ToolTip": "C:\\Users\\madsp\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
-              "RelativeToolTip": "..\\..\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\fbiController\\fbiController\\Migrations\\20251203142721_InitialCreate.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T14:27:21.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "20251203142857_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
               "RelativeDocumentMoniker": "fbiController\\Migrations\\20251203142857_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\madsp\\Desktop\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\madsp\\Desktop\\SemesterProjekt3\\fbiController\\fbiController\\Migrations\\20251203142857_InitialCreate.cs",
               "RelativeToolTip": "fbiController\\Migrations\\20251203142857_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

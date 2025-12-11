@@ -1,0 +1,120 @@
+{
+  "info": {
+    "name": "FbiDatabaseApi Azure Tests",
+    "_postman_id": "fb-api-tests-azure-collection",
+    "description": "Simple integration tests for the FBI database API running on Azure.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET all wanted (page=1&pageSize=5)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/fbi?page=1&pageSize=5",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "fbi"
+          ],
+          "query": [
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "pageSize",
+              "value": "5"
+            }
+          ]
+        }
+      },
+      "response": [],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Status is 200\", () => {",
+              "    pm.response.to.have.status(200);",
+              "});",
+              "",
+              "const json = pm.response.json();",
+              "",
+              "pm.test(\"Body has paging fields\", () => {",
+              "    pm.expect(json).to.have.property(\"total\");",
+              "    pm.expect(json).to.have.property(\"items\");",
+              "    pm.expect(json.items).to.be.an(\"array\");",
+              "});",
+              "",
+              "pm.test(\"First item has core fields\", () => {",
+              "    pm.expect(json.items[0]).to.have.property(\"id\");",
+              "    pm.expect(json.items[0]).to.have.property(\"title\");",
+              "    pm.expect(json.items[0]).to.have.property(\"fbiUid\");",
+              "});",
+              "",
+              "// store first id for the next request",
+              "if (json.items && json.items.length > 0) {",
+              "    pm.collectionVariables.set(\"wantedId\", json.items[0].id);",
+              "}"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "GET wanted by id (uses {{wantedId}})",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/fbi/{{wantedId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "fbi",
+            "{{wantedId}}"
+          ]
+        }
+      },
+      "response": [],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Status is 200\", () => {",
+              "    pm.response.to.have.status(200);",
+              "});",
+              "",
+              "const body = pm.response.json();",
+              "",
+              "pm.test(\"Has expected fields\", () => {",
+              "    pm.expect(body).to.have.property(\"id\");",
+              "    pm.expect(body).to.have.property(\"title\");",
+              "    pm.expect(body).to.have.property(\"fbiUid\");",
+              "});"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://fbidatabaseapi-ewcefwcaeyarfhgz.italynorth-01.azurewebsites.net"
+    },
+    {
+      "key": "wantedId",
+      "value": "1"
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fbiController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8459b8131d466c3e9f139403d2f469d5ebe085e")]
 [assembly: System.Reflection.AssemblyProductAttribute("fbiController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fbiController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
