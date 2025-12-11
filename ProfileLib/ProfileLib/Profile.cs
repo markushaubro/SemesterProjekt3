@@ -42,6 +42,7 @@ namespace ProfileLib
 				_score = value; 
 			}
 		}
+		public int markus { get; set; }
 
 	}
 }
