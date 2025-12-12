@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MostWanted\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\controllers\\opponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\controllers\\opponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\missiondecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\missiondecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\opponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\opponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\opponenticon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\opponenticon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\mostwanted.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\mostwanted.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|c:\\users\\user\\source\\repos\\mostwanted\\mostwanted\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF574B9-5D0D-45F7-8DF7-33650D8ADC13}|MostWanted\\MostWanted.API.csproj|solutionrelative:mostwanted\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MostWanted\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MostWanted\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T18:18:45.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MostWanted.API",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\MostWanted.API.csproj",
+              "RelativeDocumentMoniker": "MostWanted\\MostWanted.API.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\MostWanted.API.csproj",
+              "RelativeToolTip": "MostWanted\\MostWanted.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T18:18:41.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Program.cs",
+              "RelativeDocumentMoniker": "MostWanted\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Program.cs",
+              "RelativeToolTip": "MostWanted\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:18:25.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MostWanted\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MostWanted\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:13:38.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OpponentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\OpponentRepository.cs",
+              "RelativeDocumentMoniker": "MostWanted\\OpponentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\OpponentRepository.cs",
+              "RelativeToolTip": "MostWanted\\OpponentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:05:05.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpponentIcon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\OpponentIcon.cs",
+              "RelativeDocumentMoniker": "MostWanted\\OpponentIcon.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\OpponentIcon.cs",
+              "RelativeToolTip": "MostWanted\\OpponentIcon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:05:00.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Opponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Opponent.cs",
+              "RelativeDocumentMoniker": "MostWanted\\Opponent.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Opponent.cs",
+              "RelativeToolTip": "MostWanted\\Opponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:04:58.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\MissionRepository.cs",
+              "RelativeDocumentMoniker": "MostWanted\\MissionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\MissionRepository.cs",
+              "RelativeToolTip": "MostWanted\\MissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:04:50.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionDecision.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\MissionDecision.cs",
+              "RelativeDocumentMoniker": "MostWanted\\MissionDecision.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\MissionDecision.cs",
+              "RelativeToolTip": "MostWanted\\MissionDecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:04:46.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Mission.cs",
+              "RelativeDocumentMoniker": "MostWanted\\Mission.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Mission.cs",
+              "RelativeToolTip": "MostWanted\\Mission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:04:37.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpponentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Controllers\\OpponentsController.cs",
+              "RelativeDocumentMoniker": "MostWanted\\Controllers\\OpponentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Controllers\\OpponentsController.cs",
+              "RelativeToolTip": "MostWanted\\Controllers\\OpponentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:04:31.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Controllers\\MissionsController.cs",
+              "RelativeDocumentMoniker": "MostWanted\\Controllers\\MissionsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MostWanted\\MostWanted\\Controllers\\MissionsController.cs",
+              "RelativeToolTip": "MostWanted\\Controllers\\MissionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:04:21.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

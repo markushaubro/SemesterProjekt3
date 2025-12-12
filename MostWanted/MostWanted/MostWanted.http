@@ -1,0 +1,6 @@
+@MostWanted_HostAddress = http://localhost:5270
+
+GET {{MostWanted_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
