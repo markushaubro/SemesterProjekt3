@@ -1,10 +1,11 @@
-﻿using System;
+﻿using ProfileLib.RepoProfile;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProfileLib
+namespace ProfileLib.RepoVillains
 {
     public class VillainRepo : IVillianRepo
     {

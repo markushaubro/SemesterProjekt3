@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj": {}
+    "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj": {
+    "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj",
         "projectName": "MostWantedRest",
-        "projectPath": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj",
+        "projectPath": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\MostWantedRest.csproj",
         "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\MostWantedRest\\MostWantedRest\\obj\\",
+        "outputPath": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

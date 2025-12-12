@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gk36ZJ8Q7Mw=",
+  "dgSpecHash": "ygRqIun0zvg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileLib.csproj",
+  "projectFilePath": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\ProfileLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marku\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\marku\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ProfileLib
+namespace ProfileLib.RepoProfile
 {
     public class Profile
     {

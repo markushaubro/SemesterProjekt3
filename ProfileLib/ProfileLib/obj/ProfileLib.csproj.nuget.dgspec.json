@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileLib.csproj": {}
+    "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\ProfileLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileLib.csproj": {
+    "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\ProfileLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileLib.csproj",
+        "projectUniqueName": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\ProfileLib.csproj",
         "projectName": "ProfileLib",
-        "projectPath": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\ProfileLib.csproj",
+        "projectPath": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\ProfileLib.csproj",
         "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marku\\Desktop\\Skole\\3.Semester\\Programmering\\Opgaver\\DRMusic\\ProfileLib\\ProfileLib\\obj\\",
+        "outputPath": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

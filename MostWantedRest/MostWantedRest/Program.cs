@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using MostWantedRest;
 using ProfileLib;
+using ProfileLib.RepoProfile;
 
 var builder = WebApplication.CreateBuilder(args);
 

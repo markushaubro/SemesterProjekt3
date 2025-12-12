@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProfileLib
+namespace ProfileLib.RepoProfile
 {
     public class ProfileRepoDBContextFactory : IDesignTimeDbContextFactory<ProfileRepoDBContext>
     {

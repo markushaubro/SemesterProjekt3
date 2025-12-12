@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using ProfileLib;
+using ProfileLib.RepoProfile;
 
-namespace ProfileLib
+namespace ProfileLib.RepoGameService
 {
     public class GameService : IGameService
     {
@@ -15,14 +15,12 @@ namespace ProfileLib
 
         public CurrentUser? StartGame(int profileId)
         {
-            // Verify profile exists
             var profile = _context.Profiles.Find(profileId);
             if (profile == null)
             {
                 return null;
             }
 
-            // Get or create CurrentUser entry
             var currentUser = _context.CurrentUsers.FirstOrDefault();
 
             if (currentUser == null)
