@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Most Wanted</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Sigmar+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../Css/start.css">
+  <link rel="stylesheet" href="../Css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/vue@3"></script>
+</head>
+<body>
+  <div id="app">
+    <!-- Start Screen -->
+    <div v-if="currentView === 'start'" class="start-screen">
+      <div class="start-container">
+        <div class="logo">
+          Most Wanted
+        </div>
+        <div class="subtitle">
+          FBI GAME GOONERPHILIP
+        </div>
+        <button class="start-btn" @click="startGame">
+          START SPIL
+        </button>
+      </div>
+    </div>
+
+    <!-- Game Screen -->
+    <div v-if="currentView === 'game'" class="container-fluid px-4 py-3">
+      <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="text-center sigmarOne flex-grow-1">Most Wanted</h1>
+        <button class="btn btn-secondary" @click="goToStart">
+          ← Tilbage til start
+        </button>
+      </div>
+      
+      <div class="row g-3">
+        <div class="col-lg-2 col-md-3">
+          <div class="card shadow h-100">
+            <div class="card-header bg-warning text-dark">
+              <h5 class="mb-0 text-center sigmarOne">Top 5 Leaderboard</h5>
+            </div>
+            <div class="card-body p-0">
+              <ul class="list-group list-group-flush">
+                <li v-for="(profile, index) in topFive" :key="profile.id" 
+                    class="list-group-item d-flex justify-content-between align-items-center"
+                    :class="{'bg-danger bg-opacity-10': index === 0}">
+                  <div>
+                    <span class="badge rounded-pill me-2" 
+                          :style="{ backgroundColor: getLeaderboardColor(index) }">
+                      #{{ index + 1 }}
+                    </span>
+                    <strong>{{ profile.name }}</strong>
+                  </div>
+                  <span class="badge bg-success rounded-pill">{{ profile.score }}</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-8 col-md-6">
+          <div class="card shadow h-100">
+            <div class="card-header bg-primary text-white">
+              <h5 class="mb-0 text-center sigmarOne">Profiles</h5>
+            </div>
+            <div class="card-body">
+              <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                  <thead class="table-light">
+                    <tr>
+                      <th>Name</th>
+                      <th>Score</th>
+                      <th>Actions</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr v-for="profile in profiles" :key="profile.id">
+                      <td v-if="editingProfile && editingProfile.id === profile.id">
+                        <input type="text" v-model="editingProfile.name" class="form-control form-control-sm">
+                      </td>
+                      <td v-else>{{ profile.name }}</td>
+                      
+                      <td>{{ profile.score }}</td>
+                      
+                      <td>
+                        <div v-if="editingProfile && editingProfile.id === profile.id">
+                          <button class="btn btn-sm btn-success me-2" @click="updateProfile">
+                            <i class="bi bi-check"></i> Gem
+                          </button>
+                        </div>
+                        <div v-else>
+                          <button class="btn btn-sm btn-primary me-2" @click="startGameSession(profile.id)">
+                            <i class="bi bi-play-fill"></i> Start Spil
+                          </button>
+                          <button class="btn btn-sm btn-warning me-2" @click="editProfile(profile)">
+                            <i class="bi bi-pencil"></i> Rediger
+                          </button>
+                          <button class="btn btn-sm btn-danger" @click="deleteProfile(profile.id)">
+                            <i class="bi bi-trash"></i> Slet
+                          </button>
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-2 col-md-3">
+          <div class="card shadow h-100">
+            <div class="card-header bg-success text-white">
+              <h5 class="mb-0 text-center sigmarOne">Add New Profile</h5>
+            </div>
+            <div class="card-body">
+              <form @submit.prevent="addProfile">
+                <div class="mb-3">
+                  <label for="name" class="form-label">Name</label>
+                  <input type="text" v-model="newProfile.name" class="form-control" id="name" required>
+                </div>
+                <button type="submit" class="btn btn-success w-100">Add Profile</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Play Screen -->
+    <div v-if="currentView === 'play'" style="height: 100vh; width: 100vw; position: relative; display: flex; align-items: center; justify-content: center; padding: 2rem;">
+      <!-- Map Card -->
+      <div class="card shadow" style="width: 85%; height: 85%;">
+        <div class="card-header bg-dark text-white">
+          <h5 class="mb-0 text-center sigmarOne">Live Map</h5>
+        </div>
+        <div class="card-body p-0" style="height: calc(100% - 58px);">
+          <div id="map" style="height: 100%; width: 100%;"></div>
+        </div>
+      </div>
+      
+      <!-- Game HUD - Top Right Corner -->
+      <div class="position-absolute top-0 end-0 m-4" style="z-index: 1000;">
+        <div class="card shadow" style="min-width: 250px;">
+          <div class="card-body p-4">
+            <h4 class="card-title sigmarOne mb-3">{{ currentPlayer?.currentUser?.profile?.name || currentPlayer?.profile?.name || 'Loading...' }}</h4>
+            <p class="mb-3 fs-5"><strong>Score:</strong> <span class="badge bg-success fs-5 px-3 py-2">{{ currentPlayer?.currentUser?.profile?.score || currentPlayer?.profile?.score || 0 }}</span></p>
+            <button class="btn btn-danger w-100" @click="endGameSession">
+              <i class="bi bi-x-circle"></i> Afslut Spil    
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Targets In Range Panel - Bottom Right Corner -->
+      <div class="position-absolute bottom-0 end-0 m-4" style="z-index: 1000;">
+        <div class="card shadow" style="min-width: 300px; max-height: 400px;">
+          <div class="card-header bg-danger text-white">
+            <h6 class="mb-0 sigmarOne">
+              <i class="bi bi-crosshair"></i> Mål i nærheden ({{ targetsInRange.length }})
+            </h6>
+          </div>
+          <div class="card-body p-2" style="overflow-y: auto; max-height: 350px;">
+            <div v-if="targetsInRange.length === 0" class="text-center text-muted py-3">
+              <i class="bi bi-radar fs-1"></i>
+              <p class="mb-0 mt-2">Ingen mål inden for 10m</p>
+            </div>
+            <div v-for="targetData in targetsInRange" :key="targetData.target.id" class="card mb-2 border-danger">
+              <div class="card-body p-2">
+                <div class="d-flex align-items-start">
+                  <img v-if="targetData.target.images && targetData.target.images.length > 0" 
+                       :src="targetData.target.images[0].large" 
+                       class="rounded me-2"
+                       style="width: 60px; height: 60px; object-fit: cover;">
+                  <div class="flex-grow-1">
+                    <h6 class="mb-1" style="font-size: 0.9rem;">{{ targetData.target.title }}</h6>
+                    <p class="mb-1 text-muted" style="font-size: 0.75rem;">
+                      <i class="bi bi-geo-alt-fill text-danger"></i> {{ targetData.distance.toFixed(1) }}m væk
+                    </p>
+                    <p class="mb-2" style="font-size: 0.75rem;">
+                      <strong>Belønning:</strong> <span class="text-success">${{ targetData.target.rewardMax?.toLocaleString() || 'N/A' }}</span>
+                    </p>
+                    <button class="btn btn-sm btn-danger w-100" @click="tagTarget(targetData)">
+                      <i class="bi bi-hand-index-thumb"></i> Tag Forbryder
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="../JS/config.js"></script>
+  <script src="../JS/profileService.js"></script>
+  <script src="../JS/gameService.js"></script>
+  <script src="../JS/villainService.js"></script>
+  <script src="../JS/fbiService.js"></script>
+  <script src="../JS/Map.js"></script>
+  <script src="../JS/main.js"></script>
+</body>
+</html>
