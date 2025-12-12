@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProfileLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7724157789f0320676540f4c31b51b643a62fe21")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProfileLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProfileLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
