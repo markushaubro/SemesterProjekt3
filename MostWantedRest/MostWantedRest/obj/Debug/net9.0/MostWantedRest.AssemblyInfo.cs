@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MostWantedRest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07f3dff1e4d4a3c1acae968acaf947709f7cf40d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce75a46a58d639f8eb83270ad630c3eb7efe99f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MostWantedRest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MostWantedRest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

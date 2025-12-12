@@ -3,12 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\mostwantedrest\\mostwantedrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|solutionrelative:mostwantedrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repoprofile\\profilerepolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repoprofile\\profilerepodbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repoprofile\\profilerepodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repoprofile\\profilerepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repoprofile\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repoprofile\\iprofilelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repogameservice\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repogameservice\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E447D-A161-5906-E371-9C9132FC2004}|..\\ProfileLib\\ProfileLib\\ProfileLib.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\profilelib\\profilelib\\repogameservice\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\mostwantedrest\\mostwantedrest\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|solutionrelative:mostwantedrest\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\mostwantedrest\\mostwantedrest\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|solutionrelative:mostwantedrest\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\mostwantedrest\\mostwantedrest\\controllers\\villaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|solutionrelative:mostwantedrest\\controllers\\villaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\mostwantedrest\\mostwantedrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|solutionrelative:mostwantedrest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\mostwantedrest\\mostwantedrest\\startgamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|solutionrelative:mostwantedrest\\startgamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|c:\\users\\marku\\desktop\\semesterprojekt3\\mostwantedrest\\mostwantedrest\\createvillaindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E638EF-0DC2-45D6-A6EC-27053F56E940}|MostWantedRest\\MostWantedRest.csproj|solutionrelative:mostwantedrest\\createvillaindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +70,171 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Program.cs",
-              "RelativeDocumentMoniker": "MostWantedRest\\Program.cs",
-              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Program.cs",
-              "RelativeToolTip": "MostWantedRest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Title": "ProfileRepoList.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoList.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoList.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoList.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T11:43:37.565Z",
+              "WhenOpened": "2025-12-12T11:49:05.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "MostWantedRest\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "MostWantedRest\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Title": "ProfileRepoDBContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContextFactory.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContextFactory.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T10:40:29.67Z"
+              "WhenOpened": "2025-12-12T11:48:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileRepoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContext.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContext.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContext.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:48:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileRepoDB.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDB.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDB.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDB.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoProfile\\ProfileRepoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:48:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\Profile.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoProfile\\Profile.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\Profile.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoProfile\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:48:46.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProfileList.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\IProfileList.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoProfile\\IProfileList.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoProfile\\IProfileList.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoProfile\\IProfileList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:48:45.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoGameService\\IGameService.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoGameService\\IGameService.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoGameService\\IGameService.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoGameService\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:48:44.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoGameService\\GameService.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoGameService\\GameService.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoGameService\\GameService.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoGameService\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:48:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoGameService\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\ProfileLib\\ProfileLib\\RepoGameService\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\ProfileLib\\ProfileLib\\RepoGameService\\CurrentUser.cs",
+              "RelativeToolTip": "..\\ProfileLib\\ProfileLib\\RepoGameService\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:48:42.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateVillainDTO.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\CreateVillainDTO.cs",
+              "RelativeDocumentMoniker": "MostWantedRest\\CreateVillainDTO.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\CreateVillainDTO.cs",
+              "RelativeToolTip": "MostWantedRest\\CreateVillainDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:47:50.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartGameRequest.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\StartGameRequest.cs",
+              "RelativeDocumentMoniker": "MostWantedRest\\StartGameRequest.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\StartGameRequest.cs",
+              "RelativeToolTip": "MostWantedRest\\StartGameRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:47:40.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VillainController.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\VillainController.cs",
+              "RelativeDocumentMoniker": "MostWantedRest\\Controllers\\VillainController.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\VillainController.cs",
+              "RelativeToolTip": "MostWantedRest\\Controllers\\VillainController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:47:31.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "MostWantedRest\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\GameController.cs",
+              "RelativeToolTip": "MostWantedRest\\Controllers\\GameController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:47:14.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -60,6 +247,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Program.cs",
+              "RelativeDocumentMoniker": "MostWantedRest\\Program.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Program.cs",
+              "RelativeToolTip": "MostWantedRest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:43:37.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "MostWantedRest\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\marku\\Desktop\\SemesterProjekt3\\MostWantedRest\\MostWantedRest\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "MostWantedRest\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:40:29.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
